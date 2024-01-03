@@ -1,0 +1,165 @@
+  bakken	bakte	gebakken	bake
+  bedriegen	bedroog	bedrogen	dupe
+  beginnen	begon	begonnen	begin,start
+  beschrijven	beschreef	beschreven	describe
+  besluiten	besloot	besloten	decide
+  bestaan	bestond	bestaan	exist
+  bevelen	beval,bevalen	bevolen	order,command
+  bewegen	bewoog	bewogen	move
+  bezoeken	bezocht	bezocht	visit
+  bidden	bad,baden	gebeden	pray
+  bieden	bood	geboden	offer,present
+  bijten	beet	gebeten	bite
+  binden	bond	gebonden	tie up,bind
+  blazen	blies	geblazen	blow
+  blijken	bleek	gebleken	appear
+  blijven	bleef	gebleven	stay,remain
+  blinken	blonk	geblonken	glow
+  breken	brak,braken	gebroken	break
+  brengen	bracht	gebracht	bring
+  buigen	boog	gebogen	bend
+  denken	dacht	gedacht	think
+  doen	deed	gedaan	do
+  dragen	droeg	gedragen	support,bear / wear
+  drijven	dreef	gedreven	float / drive
+  drinken	dronk	gedronken	drink
+  duiken	dook	gedoken	dive
+  dwingen	dwong	gedwongen	force,oblige
+  eten	at ,aten	gegeten	eat
+  fluiten	floot	gefloten	flute
+  gaan	ging	gegaan	go
+  gelden	gold	gegolden	count
+  genezen	genas,genazen	genezen	heal,cure
+  genieten	genoot	genoten	enjoy
+  geven	gaf,gaven	gegeven	give
+  gieten	goot	gegoten	pour
+  glijden	gleed	gegleden	slide
+  glimmen	glom	geglommen	glow,glisten
+  graven	groef	gegraven	dig
+  grijpen	greep	gegrepen	grab
+  hangen	hing	gehangen	hang
+  hebben	had	gehad	have
+  heffen	hief	geheven	lift,raise
+  helpen	hielp	geholpen	help
+  heten	heette	geheten	be named
+  houden	hield	gehouden	hold
+  jagen	joeg	gejaagd	hunt
+  kiezen	koos	gekozen	choose
+  kijken	keek	gekeken	see,look
+  klimmen	klom	geklommen	climb
+  klinken	klonk	geklonken	sound
+  komen	kwam	gekomen	come
+  kopen	kocht	gekocht	buy
+  krijgen	kreeg	gekregen	receive
+  krimpen	kromp	gekrompen	contract,shrink
+  kruipen	kroop	gekropen	crawl
+  kunnen	kon,konden	gekund	be able to
+  lachen	lachte	gelachen	laugh
+  laden	laadde	geladen	load
+  laten	liet	gelaten	let
+  lezen	las,lazen	gelezen	read
+  liegen	loog	gelogen	lie (tell lies)
+  liggen	lag,lagen	gelegen	lie (be laid)
+  lijden	leed	geleden	suffer
+  lijken	leek	geleken	look like
+  lopen	liep	gelopen	walk
+  meten	mat,maten	gemeten	measure
+  moeten	moest	gemoeten	have to
+  mogen	mocht	gemogen	be allowed to
+  nemen	nam,namen	genomen	take
+  ontbijten	ontbeet	ontbeten	have breakfast
+  ontmoeten	ontmoette	ontmoet	meet
+  ontvangen	ontving	ontvangen	receive,welcome
+  prijzen	prees	geprezen	praise
+  raden	raadde	geraden	guess
+  rijden	reed	gereden	drive
+  roepen	riep	geroepen	call,shout
+  ruiken	rook	geroken	smell
+  scheiden	scheidde	gescheiden	separate,divorce
+  schelden	schold	gescholden	rail
+  schenken	schonk	geschonken	donate
+  scheppen	schiep	geschapen	create
+  scheren	schoor	geschoren	shave
+  schieten	schoot	geschoten	shoot,kick
+  schijnen	scheen	geschenen	shine
+  schrijven	schreef	geschreven	spell
+  schrikken	schrok	geschrokken	be scared
+  schuiven	schoof	geschoven	shove
+  slaan	sloeg	geslagen	hit,strike
+  slapen	sliep	geslapen	sleep
+  slijten	sleet	gesleten	wear
+  sluiten	sloot	gesloten	close,shut
+  smelten	smolt	gesmolten	melt
+  smijten	smeet	gesmeten	throw
+  snijden	sneed	gesneden	cut,slice
+  snuiven	snoof	gesnoven	snort
+  spannen	spande	gespannen	tauten
+  spijten	het speet (me)	het heeft (me) gespeten	regret
+  splijten	spleet	gespleten	split
+  spreken	sprak,spraken	gesproken	speak
+  springen	sprong	gesprongen	jump
+  spuiten	spoot	gespoten	eruct
+  staan	stond	gestaan	stand
+  steken	stak,staken	gestoken	sting
+  stelen	stal,stalen	gestolen	steal
+  sterven	stierf	gestorven	die
+  stijgen	steeg	gestegen	rise
+  strijden	streed	gestreden	compete
+  strijken	streek	gestreken	iron
+  treden	trad,traden	getreden	step
+  treffen	trof	getroffen	encounter
+  trekken	trok	getrokken	pull
+  vallen	viel	gevallen	fall
+  vangen	ving	gevangen	catch
+  varen	voer	gevaren	sail
+  vechten	vocht	gevochten	fight
+  verbergen	verborg	verborgen	hide
+  verbieden	verbood	verboden	forbid
+  verbinden	verbond	verbonden	connect,join
+  verblijven	verbleef	verbleven	stay
+  verdwijnen	verdween	verdwenen	disappear
+  vergelijken	vergeleek	vergeleken	compare
+  vergeten	vergat	vergeten	forget
+  verkopen	verkocht	verkocht	sell
+  verlaten	verliet	verlaten	leave
+  verliezen	verloor	verloren	lose
+  verschijnen 	verscheen	verschenen	appear
+  verslijten	versleet	versleten	wear
+  verslinden	verslond	verslonden	devour
+  verstaan	verstond	verstaan	understand
+  vertrekken	vertrok	vertrokken	leave
+  verzenden	verzond	verzonden	submit,ship
+  verzinnen	verzon	verzonnen	invent,make up
+  vinden	vond	gevonden	find
+  vliegen	vloog	gevlogen	fly
+  voorzien	voorzag	voorzien	foresee
+  vragen	vroeg	gevraagd	ask
+  vriezen	vroor	gevroren	freeze
+  wassen	waste	gewassen	wash
+  wegen	woog	gewogen	weigh
+  werpen	wierp	geworpen	throw
+  weten	wist	geweten	know
+  wijten	weet	geweten	blame,attribute to
+  wijzen	wees	gewezen	point,indicate
+  willen	wilde/wou,wilden	gewild	want
+  winnen	won	gewonnen	win
+  worden	werd	geworden	become
+  wreken	wreekte	gewroken	avenge
+  wrijven	wreef	gewreven	chafe
+  wringen	wrong	gewrongen	writhe
+  zeggen	zei,zeiden	gezegd	say
+  zenden	zond	gezonden	send
+  zien	zag,zagen	gezien	see
+  zijn	was,waren	geweest	be
+  zingen	zong	gezongen	sing
+  zinken	zonk	gezonken	sink
+  zitten	zat,zaten	gezeten	sit
+  zoeken	zocht	gezocht	search
+  zuigen	zoog	gezogen	suck
+  zullen	zou,zouden	/	will
+  zwellen	zwol	gezwollen	bloat
+  zwemmen	zwom	gezwommen	swim
+  zweren	zwoer	gezworen	swear
+  zwerven	zwierf	gezworven	ramble
+  zwijgen	zweeg	gezwegen	be silent
+
